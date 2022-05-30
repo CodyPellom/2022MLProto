@@ -1,0 +1,11 @@
+/*Font Imports*/
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Tiro+Bangla&display=swap');
+/*Font Imports End*/
+
+.share-tech-mono {
+    font-family: 'Share Tech Mono';
+}
+
+.tiro-bangla {
+    font-family: 'Tiro Bangla';
+}
