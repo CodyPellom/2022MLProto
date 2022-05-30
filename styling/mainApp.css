@@ -1,3 +1,4 @@
+/*basics start*/
 html, body {
     background-color: black;
     margin: 0;
@@ -22,3 +23,47 @@ html, body {
     align-content: center;
     align-items: center;
 }
+/*basics end*/
+
+/*nav start*/
+nav {
+    padding: 1em 0 1em 0;
+    margin: 1em 0 1em 0;
+}
+
+nav h3 {
+    color: darkgray;
+    left: 1em;
+    position: absolute;
+}
+
+nav a {
+    text-decoration: none;
+    color: whitesmoke;
+    margin: 0.5em;
+}
+
+nav .nav-links {
+    position: absolute;
+    right: 1em;
+}
+/*nav end*/
+
+/*hero starts*/
+.proto1Hero {
+    width: 100%;
+    height: 20em;
+    background-color: lightblue;
+}
+
+.animated-hero-section {
+    height: 100%;
+}
+
+.hero-circle {
+    width: 3.5em;
+    height: 3.5em;
+    border-radius: 50%;
+    background-color: darkgray;
+}
+/*hero ends*/
